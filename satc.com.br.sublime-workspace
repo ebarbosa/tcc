@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TRA",
+				"transportadores"
+			],
+			[
+				"CPF",
+				"cpf"
+			],
+			[
+				"emai",
+				"emails_existentes"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"margin",
+				"margin	margin-left: length"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_field"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"mysqlre",
+				"mysql_result"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysqlnum",
+				"mysql_num_rows"
+			],
+			[
+				"MYSQ",
+				"mysql_error"
+			],
+			[
+				"MY",
+				"mysql_error"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"ad",
+				"addslashes"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"fge",
+				"fgets"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgr",
+				"background	background-color: rgb"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"FONT",
+				"font"
+			],
+			[
+				"ver",
+				"vertical	vertical-align: type"
+			],
+			[
+				"DIV",
+				"div	Tag"
+			],
+			[
+				"ve",
+				"vertical	vertical-align: type"
+			],
+			[
+				"vet",
+				"vertical	vertical-align: type"
+			],
+			[
+				"ff",
+				"FFF"
+			],
+			[
+				"TEXT",
+				"text-align"
+			],
+			[
+				"INPU",
+				"input	Tag"
+			],
+			[
+				"t",
+				"text	text-shadow: color-rgb x y blur"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"background",
+				"background	background-color: name"
+			],
+			[
+				"backg",
+				"background	background-color: hex"
+			],
+			[
+				"mar",
+				"margin	margin: all"
+			],
+			[
+				"back",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"DI",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"MINI",
+				"View: Toggle Minimap"
+			],
+			[
+				"MIN",
+				"View: Toggle Minimap"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/cadastrausuario.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/loga.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/cadastro.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/inicializa.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/index.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/index.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/css/config_initial.css",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/css/config_general.css",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/pesquisadetransportadores.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/negociacoes.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/locaisdeproducao.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/dadospessoais.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/cargas.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/login.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/init.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/classes/connection.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/i05.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/i04.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/i03.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/i02.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/transportador/t05.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/transportador/t04.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/transportador/t03.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/transportador/t02.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/transportador/index.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/transportador/t01.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/p01.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/i01.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc/teste.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc/SatcCurl.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc/rests.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc/index.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc/boot.php",
+		"/C/Users/Caio/Desktop/lista_original.txt",
+		"/C/Users/Caio/Desktop/EBOOKS.txt",
+		"/C/Users/Caio/Desktop/satc/functions.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/leoemari.com.br/index.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/teste.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/lista.txt",
+		"/C/Users/Caio/Desktop/lista.txt",
+		"/C/play/todolist/app/views/Application/index.html",
+		"/C/play/todolist/app/views/main.html",
+		"/C/play/framework/src/play/mvc/Controller.java",
+		"/C/play/todolist/app/controllers/Application.java",
+		"/C/play/todolist/conf/routes",
+		"/C/play/framework/src/play/mvc/results/RenderHtml.java",
+		"/C/play/framework/src/play/templates/BaseTemplate.java",
+		"/C/play/framework/src/play/Play.java",
+		"/C/play/todolist/tmp/classes/controllers/Application.class",
+		"/C/play/todolist/tmp/classes/DocViewerPlugin.class",
+		"/C/play/todolist/tmp/classes/controllers/PlayDocumentation.class",
+		"/C/play/todolist/conf/application.conf",
+		"/C/Program Files/Bazaar/todolist/app/views/main.scala.html",
+		"/C/Program Files/Bazaar/todolist/conf/routes",
+		"/C/Program Files/Bazaar/todolist/app/views/index.scala.html",
+		"/C/Program Files/Bazaar/todolist/app/models/Task.java",
+		"/C/Program Files/Bazaar/todolist/app/controllers/Application.java",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/js/validacao_cadastro.js",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/js/validacao_login.js",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/leoemari.com.br/index.html",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/leoemari.com.br/css/config.css",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/_TO_DO",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/p06.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/p03.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/p05.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/p04.php",
+		"/C/Users/Caio/Desktop/DESENVOLVIMENTO/satc.com.br/produtor/p02.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/css/config_general.css",
+		"/C/Users/Caio/Desktop/SATC/SATC/css/config_initial.css",
+		"/C/Users/Caio/Desktop/SATC/SATC/i02.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/TO_DO",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/p01.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/index.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/i01.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/css/config_login.css",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/p05.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/p02.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/transportador/t02.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/transportador/t01.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/p06.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/transportador/t05.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/transportador/t04.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/transportador/t03.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/p04.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/p03.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/css/config_produtor.css",
+		"/C/Users/Caio/Desktop/SATC/SATC/transportador/css/config_transportador.css",
+		"/C/Users/Caio/Desktop/SATC/SATC/login.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/pesquisadetransportadores.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/negociacoes.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/locaisdeproducao.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/index.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/dadospessoais.php",
+		"/C/Users/Caio/Desktop/SATC/SATC/produtor/cargas.php",
+		"/C/Users/Caio/Desktop/SATC/TO_DO",
+		"/C/Users/Caio/Desktop/ANDRE_ZAPAROLLI.txt",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/Caio/Desktop/SATC/SISTEMA/produtor/css/config_produtor.css",
+		"/C/Users/Caio/Desktop/SATC/SISTEMA/produtor/dadospessoais.php",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/User/Tag Package.sublime-settings",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Caio/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include '../init.php';",
+			"<li><a href=\"p05.php\" class=\"NEGOTIATIONS\">Negociações</a></li>",
+			"<li><a href=\"localdeproducao.php\" class=\"LOCAL_PRODUCTION\">Locais de Produção</a></li>",
+			"<li><a href=\"p06.php\" class=\"SEARCH\">Pesquisa de Transportadores</a></li>",
+			"<li><a href=\"p01.php\" class=\"HOME\">Início</a></li>",
+			"<li><a href=\"p04.php\" class=\"LOAD\">Cargas</a></li>",
+			"<li><a href=\"p03.php\" class=\"LOCAL_PRODUCTION\">Locais de Produção</a></li>",
+			"<li><a href=\"p02.php\" class=\"PRODUCER\">Dados Pessoais</a></li>",
+			"index.php",
+			"t02.php",
+			"Rails Recipes - Pragmatic.pdf",
+			"Best of Ruby Quiz - Pragmatic Bookshelf.pdf",
+			"Apostila de Programação Linux.pdf",
+			"Agile Web Development with Rails 2nd ed.pdf",
+			"Addison Wesley - Effective Software Testing.pdf",
+			"‡Æ",
+			"6",
+			" ",
+			"doLayout",
+			"RenderHtml",
+			"render",
+			"  public static List<Task> all() {\n",
+			"search",
+			"4A735F",
+			"#4e",
+			"FIELD",
+			"FIELD_G",
+			"group",
+			"titl",
+			"field",
+			"</title>\n	<!-- CSS -->",
+			"</title>",
+			"carg",
+			"cadast",
+			"CONTE",
+			"<div id=\"HEADER\">\n			<div id=\"WELCOME\">",
+			"pag_title",
+			"<li><a href=\"index.php\" class=\"HOME\">Início</a></li>",
+			"li><a href=\"lancarlocalizacao.php\" class=\"LOCATION\">Lançar Localização</a></li>",
+			"<li><a href=\"pesquisadecargas.php\" class=\"SEARCH\">Pesquisa de Cargas</a></li>",
+			"<li><a href=\"negociacoes.php\" class=\"NEGOTIATIONS\">Negociações</a></li>",
+			"<li><a href=\"dadospessoais.php\" class=\"CARRIER\">Dados Pessoais</a></li>",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/config_transportador.css\" />",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/config_produtor.css\" />",
+			"FIELDS_UNDER",
+			"data",
+			"endereço",
+			"TITLE",
+			"red",
+			"<a href=\"pesquisadetransportadores.php\"",
+			"<a href=\"negociacoes.php\"",
+			"<a href=\"cargas.php\"",
+			"<a href=\"locaisdeproducao.php\"",
+			"<a href=\"dadospessoais.php\"",
+			"<a href=\"index.php\"",
+			"CEP",
+			"EMAIL",
+			";",
+			"FL_ENDERECO_PRINCIPAL",
+			"clea",
+			"system",
+			"map",
+			"overlay",
+			"overlay_scroll_bars",
+			"vertica",
+			"wantVerticalScrollBar",
+			"rulee",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"include '../inicializa.php';",
+			"<li><a href=\"negociacoes.php\" class=\"NEGOTIATIONS\">Negociações</a></li>",
+			"<li><a href=\"locaisdeproducao.php\" class=\"LOCAL_PRODUCTION\">Locais de Produção</a></li>",
+			"<li><a href=\"pesquisadetransportadores.php\" class=\"SEARCH\">Pesquisa de Transportadores</a></li>",
+			"<li><a href=\"index.php\" class=\"HOME\">Início</a></li>",
+			"<li><a href=\"cargas.php\" class=\"LOAD\">Cargas</a></li>",
+			"<li><a href=\"localdeproducao.php\" class=\"LOCAL_PRODUCTION\">Locais de Produção</a></li>",
+			"<li><a href=\"dadospessoais.php\" class=\"PRODUCER\">Dados Pessoais</a></li>",
+			"t02.php",
+			"index.php",
+			"_",
+			"</title>\n	<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n	<!-- CSS -->",
+			"</title>\n	<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n			<div id=\"PAGE_TITLE\">",
+			"<div id=\"HEADER\">\n			<div id=\"PAGE_TITLE\">",
+			"<li><a href=\"t01.php\" class=\"HOME\">Início</a></li>",
+			"li><a href=\"t05.php\" class=\"LOCATION\">Lançar Localização</a></li>",
+			"<li><a href=\"t04.php\" class=\"SEARCH\">Pesquisa de Cargas</a></li>",
+			"<li><a href=\"t03.php\" class=\"NEGOTIATIONS\">Negociações</a></li>",
+			"<li><a href=\"t02.php\" class=\"CARRIER\">Dados Pessoais</a></li>",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"../css/config_general.css\" />",
+			"<a href=\"p06.php\"",
+			"<a href=\"p05.php\"",
+			"<a href=\"p04.php\"",
+			"<a href=\"p03.php\"",
+			"<a href=\"p02.php\"",
+			"<a href=\"p01.php\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
